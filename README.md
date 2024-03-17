@@ -1,6 +1,6 @@
-<div align="center">
-  <img height="150" src=""  />
-</div>
+//<div align="center">
+  //<img height="150" src=""  />
+//</div>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="40" alt="c++ logo"  />
