@@ -37,6 +37,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" alt="css logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Flutter_logo.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" height="40" alt="sqlite logo"  />
 </div>
 
 
