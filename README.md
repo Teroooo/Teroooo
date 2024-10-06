@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">I'm Antero, I'm from Guarda, Portugal<br><br>- 🔭 Now as a member of <a href="https://github.com/acmfeup">@neACM</a> from FEUP <br>- 📚 I'm currently in the 2nd year of the Informatic and Computing Engineering Degree at <a href="https://github.com/FEUP"> @FEUP </a><br>- ⚡ In my free time I like to learn new things, play games, read and hit the gym</p>
+<p align="left">I'm Antero, I'm from Guarda, Portugal<br><br>- 🔭 Now as a member of <a href="https://github.com/acmfeup">@neACM</a> from FEUP <br>- 📚 I'm currently in the 3rd year of the Informatic and Computing Engineering Degree at <a href="https://github.com/FEUP"> @FEUP </a><br>- ⚡ In my free time I like to learn new things, play games, read and hit the gym</p>
 
 ###
 
