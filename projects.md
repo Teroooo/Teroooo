@@ -74,7 +74,8 @@
   <summary style="display: flex; justify-items:center;">About this project</summary>
   <hr>
   EcoExchange is a platform designed with a focus on security, usability, and real-time interaction, providing an efficient environment for users to buy and sell products and services
-  ## ⚡ Features  
+  
+## ⚡ Features  
  **General**:
 
 - 🔹 Register a new account.
