@@ -117,3 +117,48 @@
 </details>
 
 ---
+
+## 🚀 Soul's Duel
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/f052a71a-cd3f-4763-a34c-d1138c7070c5" alt="Show" width="450">
+    </td>
+  </tr>
+    <td>
+      <strong>Game Preview</strong>
+    </td>
+  </tr>
+</table>
+
+<a align="center" target="_blank" href="https://github.com/Teroooo/Souls-Duel">Project</a>
+
+<details>
+  <summary style="display: flex; justify-items:center;">About this project</summary>
+  <hr>
+  Soul's Duel" is a 2D game inspired by the strategic battles of Undertale. Play as a brave soul in a mysterious world, facing challenges. Victory depends on quick reflexes. 
+  
+  Built using Java design patterns, the game emphasizes clean code architecture while delivering a compelling and engaging experience.
+  
+## ⚡ Features  
+- 🔹 **Move** - The game character can be controlled using the arrow keys keys.
+- 🔹 **HP** - The player has health points.
+- 🔹 **Get hit** - If the character gets hit, he will lose Health Points (HP).
+- 🔹 **Enemies** - An area displays enemies in an ASCII design.
+- 🔹 **Different attacks** - Enemies have various combinations of attacks.
+- 🔹 **Menu** - The game includes a menu with a play option.
+- 🔹 **Music** - There is music in the menus and in-game, along with hit sound effects.
+- 🔹 **Skin** - The hero is not represented by a letter; using FontForge, we crafted their appearance as a heart.
+- 🔹 **Levels** - Players can experience four different levels.
+
+  
+
+## 🛠 Tech Stack  
+**Frontend:** Lanterna (Java Library)
+**Backend:** Java
+
+**Last edited in Jan-2024**
+</details>
+
+---
