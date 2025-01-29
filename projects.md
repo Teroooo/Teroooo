@@ -13,6 +13,8 @@
   </tr>
 </table>
 
+<a href="https://github.com/Teroooo/FEUP-reUSE">Project</a>
+
 <details>
   <summary style="display: flex; justify-items:center;">About this project</summary>
   <hr>
