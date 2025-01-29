@@ -1,6 +1,8 @@
 # Projects
 
-<table >
+## 🚀 Project Name
+
+<table  align="center">
   <tr>
     <td><img src="https://via.placeholder.com/400" alt="Screenshot 1"></td>
     <td><img src="https://via.placeholder.com/400" alt="Screenshot 2"></td>
@@ -13,18 +15,9 @@
 
 <details>
   <summary style="display: flex; justify-items:center;">About this project</summary>
-  
-  # 🚀 Project Name
-  
+  <hr>
   *A short description of your project.*
-  
-  ## 📥 Installation  
-  ```bash
-  git clone https://github.com/yourusername/project-name.git
-  cd project-name
-  npm install  # or yarn install
-  ```
-  
+
   ## ⚡ Features  
   - 🔹 Feature 1  
   - 🔹 Feature 2  
@@ -32,10 +25,7 @@
   
   ## 🛠 Tech Stack  
   **Frontend:** React, Tailwind CSS  
-  **Backend:** Node.js, Express  
-  
-  ## 📜 License  
-  MIT License  
+  **Backend:** Node.js, Express 
 
 </details>
 
