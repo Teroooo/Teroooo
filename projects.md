@@ -155,8 +155,38 @@
   
 
 ## 🛠 Tech Stack  
-**Frontend:** Lanterna (Java Library)
+**Frontend:** Lanterna (Java Library)<hr>
 **Backend:** Java
+
+**Last edited in Jan-2024**
+</details>
+
+---
+
+## 🚀 Fleet Management of Airlines Database
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/b0a58404-8ca1-40b5-bd46-a5608ff49c9d" alt="DataBase" width="450">
+    </td>
+  </tr>
+    <td>
+      <strong>Database UML</strong>
+    </td>
+  </tr>
+</table>
+
+<a align="center" target="_blank" href="https://github.com/Teroooo/Souls-Duel">Project</a>
+
+<details>
+  <summary style="display: flex; justify-items:center;">About this project</summary>
+  <hr>
+  The project aims to implement a database for managing airline fleet operations. The focus of this project is on the relational model, its compliance with normal forms, and the implementation in SQLite. This includes creating tables and populating them with data. The conceptual model (UML) was addressed in the previous submission and will not be covered in detail here.
+    
+
+## 🛠 Tech Stack  
+- SQLite
 
 **Last edited in Jan-2024**
 </details>
