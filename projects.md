@@ -109,9 +109,9 @@
 - 🔹 Oversee and ensure the smooth operation of the entire system.
   
 
-  ## 🛠 Tech Stack  
-  **Frontend:** HTML, CSS, JavaScript  
-  **Backend:** PHP, SQLite
+## 🛠 Tech Stack  
+**Frontend:** HTML, CSS, JavaScript  
+**Backend:** PHP, SQLite
 
 **Last edited in Jun-2024**
 </details>
