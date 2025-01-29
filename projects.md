@@ -2,7 +2,7 @@
 
 ## 🚀 FEUP-reUSE
 
-<table  align="center">
+<table align="center">
   <tr>
     <td><img src="https://github.com/user-attachments/assets/78ad0b13-ea10-48cb-9e3d-44d951b14752" alt="WhatsApp Image 2025-01-29 at 18 25 32" width="200"></td>
     <td><img src="https://github.com/user-attachments/assets/dee17dd7-982f-4b61-abc1-2cc615f67b70" alt="WhatsApp Image 2025-01-29 at 18 25 37" width="200"></td>
@@ -13,7 +13,7 @@
   </tr>
 </table>
 
-<a href="https://github.com/Teroooo/FEUP-reUSE">Project</a>
+<a align="center" target="_blank" href="https://github.com/Teroooo/FEUP-reUSE">Project</a>
 
 <details>
   <summary style="display: flex; justify-items:center;">About this project</summary>
