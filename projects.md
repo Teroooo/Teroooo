@@ -223,3 +223,42 @@ graph representing a country, composed of a set of interconnected cities
 </details>
 
 ---
+
+## 🚀 Mabula - Prolog Game
+
+<table align="center">
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/2bef1053-5849-4b5f-abe5-e34a439203b0" alt="Main Menu" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/a0cbb56a-49e9-4b4e-8421-8d0b3fe1789f" alt="In Game" width="200"></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Main Menu</strong></td>
+    <td align="center"><strong>In Game</strong></td>
+  </tr>
+</table>
+
+<a align="center" target="_blank" href="https://github.com/Teroooo/PFL">Project</a>
+
+<details>
+  <summary style="display: flex; justify-items:center;">About this project</summary>
+  <hr>
+  Mabula is a two-player board game where each player starts with 12 balls of their color placed randomly around the board’s perimeter, ensuring no more than two consecutive balls of the same color, even around corners.
+
+On their turn, a player moves a ball in a straight line as far as desired, pushing any balls in its path, but without forcing any off the board’s perimeter. The game continues until no more moves are possible. The player with the largest connected group of balls wins.
+
+Alternatively, players can score by multiplying the sizes of all their groups, with a maximum score of 81 (3x3x3x3).
+
+  ## ⚡ Features  
+  - 🔹 Board with Personalized Size
+  - 🔹 Menu
+  - 🔹 Save/Load Game
+  - 🔹 Bot-Minimax
+  - 🔹 "Page" with How to Play the Game
+  
+  ## 🛠 Tech Stack  
+  - Prolog 
+
+**Last edited in Dec-2024**
+</details>
+
+---
