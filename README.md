@@ -1,13 +1,18 @@
-
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Teroooo.Teroooo&"  />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDk3Z3AwbDJ6b2xpeG00aTFnNDY0aTVpZnNuZHN4M3BoM2I1OWlnaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ij1WvlilscRFoIRn7u/giphy.gif" width="300">
 </div>
+
+
 
 ###
 
 <h1 align="center">Hey there 👋</h1>
 
 ###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Teroooo.Teroooo&"  />
+</div>
 
 <h3 align="left">👩‍💻  About Me</h3>
 
@@ -39,6 +44,27 @@
 
 
 ###
+
+<div align="center">
+
+## 🚀 My Projects  
+
+<table>
+  <tr>
+    <th>📂 Category</th>
+    <th>🔗 Link</th>
+  </tr>
+  <tr>
+    <td>🔧 Academic Projects</td>
+    <td><a href="projects.md"><img src="https://img.shields.io/badge/Press_Here-%F0%9F%92%BB-blue?style=for-the-badge"></a></td>
+  </tr>
+  <tr>
+    <td>🔮 My Projects</td>
+    <td>Under Development</td>
+  </tr>
+</table>
+
+</div>
 
 <h3 align="left">🔥   My Stats :</h3>
 
