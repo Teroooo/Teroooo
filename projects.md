@@ -132,7 +132,7 @@
 
 ---
 
-## 🚀 Soul's Duel (Design and Test of Software Laboratory)
+## 🎮 Soul's Duel (Design and Test of Software Laboratory)
 
 <table align="center">
   <tr>
@@ -177,7 +177,7 @@
 
 ---
 
-## 🚀 Fleet Management of Airlines Database (Databases Project)
+## ✈️ Fleet Management of Airlines Database (Databases Project)
 
 <table align="center">
   <tr>
@@ -207,7 +207,7 @@
 
 ---
 
-## 🚀 Haskell Graph Manipulation (Logic and Analytical Programming Project1)
+## 📊 Haskell Graph Manipulation (Logic and Analytical Programming Project1)
 
 <table align="center">
   <tr>
@@ -238,7 +238,7 @@ graph representing a country, composed of a set of interconnected cities
 
 ---
 
-## 🚀 Mabula - Prolog Game (Logic and Analytical Programming Project2)
+## 🎲 Mabula - Prolog Game (Logic and Analytical Programming Project2)
 
 <table align="center">
   <tr>
@@ -318,7 +318,7 @@ Alternatively, players can score by multiplying the sizes of all their groups, w
 
 ---
 
-## 🚀 DAP2 - Design of Algorithms Project 2 (Graph Manipulation Algorithms)
+## 🗺️ DAP2 - Design of Algorithms Project 2 (Graph Manipulation Algorithms)
 
 <table align="center">
   <tr>
@@ -369,7 +369,7 @@ Alternatively, players can score by multiplying the sizes of all their groups, w
 
 ---
 
-## 🚀 Schedule Optimizer - Algorithms and Data Structures
+## 📅 Schedule Optimizer - Algorithms and Data Structures
 
 <a align="center" target="_blank" href="https://github.com/Tomas-Telmo/AED_PROJ_1">Project</a>
 
@@ -389,7 +389,7 @@ Alternatively, players can score by multiplying the sizes of all their groups, w
 
 ---
 
-## 🚀 Air Travel Management - Algorithms and Data Structures
+## ✈️ Air Travel Management - Algorithms and Data Structures
 
 <a align="center" target="_blank" href="https://github.com/HugoCruz04/AirTravelManagement">Project</a>
 
