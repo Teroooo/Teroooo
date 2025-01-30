@@ -228,8 +228,8 @@ graph representing a country, composed of a set of interconnected cities
 
 <table align="center">
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/2bef1053-5849-4b5f-abe5-e34a439203b0" alt="Main Menu" width="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/a0cbb56a-49e9-4b4e-8421-8d0b3fe1789f" alt="In Game" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/2bef1053-5849-4b5f-abe5-e34a439203b0" alt="Main Menu" width="400"></td>
+    <td><img src="https://github.com/user-attachments/assets/a0cbb56a-49e9-4b4e-8421-8d0b3fe1789f" alt="In Game" width="400"></td>
   </tr>
   <tr>
     <td align="center"><strong>Main Menu</strong></td>
