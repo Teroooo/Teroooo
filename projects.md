@@ -262,3 +262,44 @@ Alternatively, players can score by multiplying the sizes of all their groups, w
 </details>
 
 ---
+
+## 🚀DAms - Graph Manipulation
+
+<table align="center">
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/9e16d961-56f5-4c0c-8528-44734a38222f" alt="Main Menu" width="400"></td>
+    <td><img src="https://github.com/user-attachments/assets/597211b7-e61c-458a-bf4b-1e47be193264" alt="In Game" width="400"></td>
+    <td><img src="https://github.com/user-attachments/assets/a33e86c4-1f48-478a-bc8e-d9c7916f5b51" alt="Main Menu" width="400"></td>
+
+  </tr>
+  <tr>
+    <td align="center"><strong>Main Menu</strong></td>
+    <td align="center"><strong>In Game</strong></td>
+    <td align="center"><strong>In Game</strong></td>
+  </tr>
+</table>
+
+<a align="center" target="_blank" href="https://github.com/DiogoSV7/projeto1DA">Project</a>
+
+<details>
+  <summary style="display: flex; justify-items:center;">About this project</summary>
+  <hr>
+  
+  DAms is a water distribution network analysis tool that enables users to study and optimize water flow between reservoirs, pumping stations, and delivery sites. It offers dataset selection for different network scales, allowing users to work with real-world data. The system supports dynamic graph modifications, enabling the removal and restoration of network components while assessing their impact on water distribution
+
+  ## ⚡ Features  
+  - 🔹 Dataset Selection
+  - 🔹 Graph Modification
+  - 🔹 Flow Analysis
+  - 🔹 Impact Assessment
+  - 🔹 Statistical Insights
+  - 🔹 Algorithm Implementation – Uses **Edmonds-Karp** for max flow calculations and DFS for efficient updates.
+  - 🔹 User Interface (Menu)
+  
+  ## 🛠 Tech Stack  
+  - C++ 
+
+**Last edited in Mar-2024**
+</details>
+
+---
