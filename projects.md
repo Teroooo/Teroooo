@@ -294,7 +294,7 @@ Alternatively, players can score by multiplying the sizes of all their groups, w
 </table>
 
 <a align="center" target="_blank" href="https://github.com/DiogoSV7/projeto1DA">Project</a><br>
-[DAms-Apresentação.pdf](https://github.com/user-attachments/files/18608568/DAms-Apresentacao.pdf)
+[Presentation](https://github.com/user-attachments/files/18608568/DAms-Apresentacao.pdf)
 
 <details>
   <summary style="display: flex; justify-items:center;">About this project</summary>
@@ -347,7 +347,7 @@ Alternatively, players can score by multiplying the sizes of all their groups, w
 </table>
 
 <a align="center" target="_blank" href="https://github.com/TiagoPinto13/Projeto2DA">Project</a><br>
-[Proj2DAapresentação.pdf](https://github.com/user-attachments/files/18608560/Proj2DAapresentacao.pdf)
+[Presentation](https://github.com/user-attachments/files/18608560/Proj2DAapresentacao.pdf)
 
 <details>
   <summary style="display: flex; justify-items:center;">About this project</summary>
