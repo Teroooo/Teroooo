@@ -1,5 +1,6 @@
 # 🎓 Faculty Projects  
 
+<div align="center">
 ## 📌 Table of Contents  
 
 1. [🚀 FEUP-reUSE (Software Engineering)](#-feup-reuse-software-engineering)  
@@ -14,7 +15,8 @@
 10. [✈️ Air Travel Management (Algorithms and Data Structures)](#-air-travel-management---algorithms-and-data-structures)
 11. [📡 Comunication of Data Protocol - Computer Networks Project1](#-comunication-of-data-protocol---computer-networks-project1)
 12. [💻 File Transmission Protocol Client - Computer Networks Project2](#-file-transmission-protocol-client---computer-networks-project2)
-13. [🎮 Not CupHead - Computer Laboratory Project](#-not-cuphead---computer-laboratory-project)
+13. [🎮 Not CupHead - Computer Laboratory Project](#-not-cuphead---computer-laboratory-project)  
+</div>
 
 
 ## 🚀 FEUP-reUSE (Software Engineering)
