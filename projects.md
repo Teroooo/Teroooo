@@ -267,15 +267,15 @@ Alternatively, players can score by multiplying the sizes of all their groups, w
 
 <table align="center">
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/9e16d961-56f5-4c0c-8528-44734a38222f" alt="Main Menu" width="400"></td>
-    <td><img src="https://github.com/user-attachments/assets/597211b7-e61c-458a-bf4b-1e47be193264" alt="In Game" width="400"></td>
+    <td><img src="https://github.com/user-attachments/assets/597211b7-e61c-458a-bf4b-1e47be193264" alt="DataSet Selection" width="400"></td>
     <td><img src="https://github.com/user-attachments/assets/a33e86c4-1f48-478a-bc8e-d9c7916f5b51" alt="Main Menu" width="400"></td>
+    <td><img src="https://github.com/user-attachments/assets/9e16d961-56f5-4c0c-8528-44734a38222f" alt="Other Menus" width="400"></td>
 
   </tr>
   <tr>
+    <td align="center"><strong>DataSet Selection</strong></td>
     <td align="center"><strong>Main Menu</strong></td>
-    <td align="center"><strong>In Game</strong></td>
-    <td align="center"><strong>In Game</strong></td>
+    <td align="center"><strong>Other Menus</strong></td>
   </tr>
 </table>
 
