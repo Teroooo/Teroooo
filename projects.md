@@ -1,4 +1,4 @@
-# Projects
+# Faculty Projects
 
 ## 🚀 FEUP-reUSE
 
