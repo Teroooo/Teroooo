@@ -53,7 +53,7 @@
   </tr>
   <tr>
     <td>🔮 My Projects</td>
-    <td><a href="projects.md"><img src="https://img.shields.io/badge/Press_Here-%F0%9F%91%BE-blue?style=for-the-badge"></a></td>
+    <td><a href="myprojects.md"><img src="https://img.shields.io/badge/Press_Here-%F0%9F%91%BE-blue?style=for-the-badge"></a></td>
   </tr>
 </table>
 
