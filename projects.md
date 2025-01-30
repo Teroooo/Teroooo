@@ -11,7 +11,10 @@
 7. [🔗 DAms - Graph Manipulation Algorithms (Design of Algorithms)](#-dams---graph-manipulation-algorithms-design-of-algorithms)
 8. [🗺️ DAP2 - Traveling Salesman Problem (Design of Algorithms)](#%EF%B8%8F-dap2---design-of-algorithms-project-2-graph-manipulation-algorithms)
 9. [📅 Schedule Optimizer (Algorithms and Data Structures)](#-schedule-optimizer---algorithms-and-data-structures)  
-10. [✈️ Air Travel Management (Algorithms and Data Structures)](#-air-travel-management---algorithms-and-data-structures)  
+10. [✈️ Air Travel Management (Algorithms and Data Structures)](#-air-travel-management---algorithms-and-data-structures)
+11. [📡 Comunication of Data Protocol - Computer Networks Project1](#-comunication-of-data-protocol---computer-networks-project1)
+12. [💻 File Transmission Protocol Client - Computer Networks Project2](#-file-transmission-protocol-client---computer-networks-project2)
+13. [🎮 Not CupHead - Computer Laboratory Project](#-not-cuphead---computer-laboratory-project)
 
 
 ## 🚀 FEUP-reUSE (Software Engineering)
