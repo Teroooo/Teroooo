@@ -197,16 +197,14 @@
 
 <table align="center">
   <tr>
-    <td></td>
-    <td><img src="https://github.com/user-attachments/assets/dee17dd7-982f-4b61-abc1-2cc615f67b70" alt="WhatsApp Image 2025-01-29 at 18 25 37" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/bc700017-7182-4980-ad88-8328f71dcf95" alt="Haskell logo" width="200"></td>
   </tr>
   <tr>
-    <td align="center"><strong>Login Page</strong></td>
-    <td align="center"><strong>Feed</strong></td>
+    <td align="center"><strong>Haskell Logo</strong></td>
   </tr>
 </table>
 
-<a align="center" target="_blank" href="https://github.com/Teroooo/FEUP-reUSE">Project</a>
+<a align="center" target="_blank" href="https://github.com/Teroooo/PFL">Project</a>
 
 <details>
   <summary style="display: flex; justify-items:center;">About this project</summary>
@@ -215,20 +213,13 @@
 graph representing a country, composed of a set of interconnected cities
 
   ## ⚡ Features  
-  - 🔹 Publication System  
-  - 🔹 Chat Functionality  
-  - 🔹 Rating System
-  - 🔹 Search Users
-  - 🔹 Search Items
-  - 🔹 Login/Register
-  - 🔹 Own Profile Page with Current Items Published
-  - 🔹 Delete Item
+  - 🔹 Menu
+  - 🔹 Tests  
   
   ## 🛠 Tech Stack  
-  **Frontend:** Flutter  
-  **Backend:** Dart, Firebase 
+  - Haskell 
 
-**Last edited in Jun-2024**
+**Last edited in Nov-2024**
 </details>
 
 ---
