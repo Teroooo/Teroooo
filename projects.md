@@ -277,7 +277,7 @@ Alternatively, players can score by multiplying the sizes of all their groups, w
 
 ---
 
-## 🚀DAms - Graph Manipulation Algorithms (Design of Algorithms Project1)
+## 🔗 DAms - Graph Manipulation Algorithms (Design of Algorithms)
 
 <table align="center">
   <tr>
