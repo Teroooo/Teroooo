@@ -132,7 +132,7 @@
 
 ---
 
-## 🎮 Soul's Duel (Design and Test of Software Laboratory)
+## 👾 Soul's Duel (Design and Test of Software Laboratory)
 
 <table align="center">
   <tr>
@@ -411,7 +411,7 @@ Alternatively, players can score by multiplying the sizes of all their groups, w
 
 ---
 
-## ✈️ Comunication of Data Protocol - Computer Networks Project1
+## 📡 Comunication of Data Protocol - Computer Networks Project1
 
 <a align="center" target="_blank" href="">Project</a>
 
@@ -431,7 +431,7 @@ Alternatively, players can score by multiplying the sizes of all their groups, w
 
 ---
 
-## ✈️ File Transmission Protocol Client - Computer Networks Project2
+## 💻 File Transmission Protocol Client - Computer Networks Project2
 
 <a align="center" target="_blank" href="">Project</a>
 
@@ -451,7 +451,7 @@ Alternatively, players can score by multiplying the sizes of all their groups, w
 
 ---
 
-## ✈️ Not CupHead - Computer Laboratory Project
+## 🎮 Not CupHead - Computer Laboratory Project
 
 <a align="center" target="_blank" href="">Project</a>
 
