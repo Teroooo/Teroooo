@@ -58,7 +58,7 @@
 
 ---
 
-## 🚀 EcoExchange (Web Tecnologies Laboratory)
+## 🌱 EcoExchange (Web Technologies Laboratory)
 
 <table align="center">
   <tr>
