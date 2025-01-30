@@ -382,7 +382,7 @@ Alternatively, players can score by multiplying the sizes of all their groups, w
  - 🔹 User Interface (Menu)
   
   ## 🛠 Tech Stack  
-  -C++
+  - C++
 
 **Last edited in Oct-2023**
 </details>
@@ -402,9 +402,69 @@ Alternatively, players can score by multiplying the sizes of all their groups, w
  - 🔹 User Interface (Menu) 
   
   ## 🛠 Tech Stack  
-  -C++
+  - C++
 
 **Last edited in Dec-2023**
+</details>
+
+---
+
+## ✈️ Comunication of Data Protocol - Computer Networks Project1
+
+<a align="center" target="_blank" href="">Project</a>
+
+<details>
+  <summary style="display: flex; justify-items:center;">About this project</summary>
+  <hr>
+   
+
+  ## ⚡ Features  
+ - 🔹 
+  
+  ## 🛠 Tech Stack  
+  - C
+
+**Last edited in Nov-2023**
+</details>
+
+---
+
+## ✈️ File Transmission Protocol Client - Computer Networks Project2
+
+<a align="center" target="_blank" href="">Project</a>
+
+<details>
+  <summary style="display: flex; justify-items:center;">About this project</summary>
+  <hr>
+   
+
+  ## ⚡ Features  
+ - 🔹 
+  
+  ## 🛠 Tech Stack  
+  - C
+
+**Last edited in Dec-2024**
+</details>
+
+---
+
+## ✈️ Not CupHead - Computer Laboratory Project
+
+<a align="center" target="_blank" href="">Project</a>
+
+<details>
+  <summary style="display: flex; justify-items:center;">About this project</summary>
+  <hr>
+   
+
+  ## ⚡ Features  
+ - 🔹 
+  
+  ## 🛠 Tech Stack  
+  - C
+
+**Last edited in Jun-2024**
 </details>
 
 ---
