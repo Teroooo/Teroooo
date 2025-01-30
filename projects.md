@@ -263,7 +263,7 @@ Alternatively, players can score by multiplying the sizes of all their groups, w
 
 ---
 
-## 🚀DAms - Graph Manipulation
+## 🚀DAms - Graph Manipulation Algorithms
 
 <table align="center">
   <tr>
@@ -300,6 +300,57 @@ Alternatively, players can score by multiplying the sizes of all their groups, w
   - C++ 
 
 **Last edited in Mar-2024**
+</details>
+
+---
+
+## 🚀 DAP2 - Design of Algorithms Project 2 (Graph Manipulation Algorithms)
+
+<table align="center">
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/ee92a96b-5021-4793-b3c7-2055b28ee616" alt="DataSet Selection" width="400"></td>
+    <td><img src="https://github.com/user-attachments/assets/ed612b86-32db-403d-824f-60bf69cf8fa7" alt="Main Menu" width="400"></td>
+    <td><img src="https://github.com/user-attachments/assets/208ac4ae-8205-4838-9465-a7fdaa5c8c28" alt="Other Menus" width="400"></td>
+    
+  </tr>
+  <tr>
+    <td align="center"><strong>DataSet Selection</strong></td>
+    <td align="center"><strong>Main Menu</strong></td>
+    <td align="center"><strong>Other Menus</strong></td>
+    
+  </tr>
+</table>
+<table align="center">
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/8698f977-52cb-4c14-9922-10c96c7e7d2c" alt="Other Menus" width="400"></td>
+    <td><img src="https://github.com/user-attachments/assets/ece4f0e0-ef4a-481e-be8a-6b5a1bea9960" alt="Other Menus" width="400"></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Main Menu</strong></td>
+    <td align="center"><strong>Other Menus</strong></td>
+  </tr>
+</table>
+
+<a align="center" target="_blank" href="https://github.com/TiagoPinto13/Projeto2DA">Project</a>
+
+<details>
+  <summary style="display: flex; justify-items:center;">About this project</summary>
+  <hr>
+  
+  DAP2 is a project focused on solving the Traveling Salesman Problem (TSP) through various algorithmic approaches. Users can select different datasets, including simplified and real-world graphs, to analyze route optimization. The system enables dynamic graph modifications, allowing users to test algorithm performance on altered datasets. It implements multiple algorithms, such as Backtracking, Triangular Approximation, and Cluster Approximation, providing different levels of accuracy and efficiency. Additionally, Proj2DA includes a specialized "TSP Real World" module that combines BFS, Dijkstra, and Two-Opt for enhanced optimization. A key feature is the ability to compare the execution time, cost, and path length of different algorithms, giving users insight into their effectiveness
+
+  ## ⚡ Features  
+  - 🔹 Dataset Selection
+  - 🔹 Graph Modification
+  - 🔹 Algorithm Execution – Supports multiple algorithms, including Backtracking, Triangular Approximation, and Cluster Approximation.
+  - 🔹 TSP Real World – Provides optimized solutions for the Traveling Salesman Problem using BFS, Dijkstra, and Two-Opt techniques.
+  - 🔹 Performance Comparison
+  - 🔹 User Interface (Menu)
+  
+  ## 🛠 Tech Stack  
+  - C++ 
+
+**Last edited in Jun-2024**
 </details>
 
 ---
