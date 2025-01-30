@@ -8,7 +8,7 @@
 4. [✈️ Fleet Management of Airlines Database (Databases Project)](#-fleet-management-of-airlines-database-databases-project)  
 5. [📊 Haskell Graph Manipulation (Logic and Analytical Programming)](#-haskell-graph-manipulation-logic-and-analytical-programming-project1)  
 6. [🎲 Mabula - Prolog Game (Logic and Analytical Programming)](#-mabula---prolog-game-logic-and-analytical-programming-project2)  
-7. [DAms - Graph Manipulation Algorithms (Design of Algorithms)](#dams-graph-manipulation-algorithms-design-of-algorithms)
+7. [DAms - Graph Manipulation Algorithms (Design of Algorithms)](#-dams-graph-manipulation-algorithms-design-of-algorithms)
 8. [🗺️ DAP2 - Traveling Salesman Problem (Design of Algorithms)](#dap2-traveling-salesman-problem-design-of-algorithms)
 9. [📅 Schedule Optimizer (Algorithms and Data Structures)](#-schedule-optimizer---algorithms-and-data-structures)  
 10. [✈️ Air Travel Management (Algorithms and Data Structures)](#-air-travel-management---algorithms-and-data-structures)  
