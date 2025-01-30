@@ -1,12 +1,13 @@
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDk3Z3AwbDJ6b2xpeG00aTFnNDY0aTVpZnNuZHN4M3BoM2I1OWlnaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ij1WvlilscRFoIRn7u/giphy.gif" width="150">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3hpNmc1NWM4ZTlweWxycTV0YXFrcmxnaHB3djg0a3BuNTNobm5ybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bFEQEDLmhrYsse0zFF/giphy.gif" width="300">
 </div>
 
 
 
 ###
 
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1> 
+
 
 ###
 
@@ -14,15 +15,9 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Teroooo.Teroooo&"  />
 </div>
 
-<h3 align="left">👩‍💻  About Me</h3>
-
 ###
 
-<p align="left">I'm Antero, I'm from Guarda, Portugal<br><br>- 🔭 Now as a member of <a href="https://github.com/acmfeup">@neACM</a> from FEUP <br>- 📚 I'm currently in the 3rd year of the Informatic and Computing Engineering Degree at <a href="https://github.com/FEUP"> @FEUP </a><br>- ⚡ In my free time I like to learn new things, play games, read and hit the gym</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="center">🛠 Language and tools</h3>
 
 ###
 
@@ -45,11 +40,9 @@
 
 ###
 
-<div align="center">
+<h3 align="center">🚀 My Projects</h3>  
 
-## 🚀 My Projects  
-
-<table>
+<table align="center">
   <tr>
     <th>📂 Category</th>
     <th>🔗 Link</th>
@@ -64,9 +57,9 @@
   </tr>
 </table>
 
-</div>
 
-<h3 align="left">🔥   My Stats :</h3>
+
+<h3 align="center">🔥   My Stats :</h3>
 
 ###
 
