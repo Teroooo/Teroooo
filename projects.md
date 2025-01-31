@@ -7,8 +7,8 @@
 2. [🌱 EcoExchange (Web Technologies Laboratory)](#-ecoexchange-web-technologies-laboratory)  
 3. [🎮 Soul's Duel (Design and Test of Software Laboratory)](#-souls-duel-design-and-test-of-software-laboratory)  
 4. [✈️ Fleet Management of Airlines Database (Databases Project)](#%EF%B8%8F-fleet-management-of-airlines-database-databases-project)  
-5. [📊 Haskell Graph Manipulation (Logic and Analytical Programming)](#-haskell-graph-manipulation-logic-and-analytical-programming-project1)  
-6. [🎲 Mabula - Prolog Game (Logic and Analytical Programming)](#-mabula---prolog-game-logic-and-analytical-programming-project2)  
+5. [📊 Haskell Graph Manipulation (Logic and Functional Programming)](#-haskell-graph-manipulation-logic-and-functional-programming-project1)  
+6. [🎲 Mabula - Prolog Game (Logic and Functional Programming)](#-mabula---prolog-game-logic-and-functional-programming-project2)  
 7. [🔗 DAms - Graph Manipulation Algorithms (Design of Algorithms)](#-dams---graph-manipulation-algorithms-design-of-algorithms)
 8. [🗺️ DAP2 - Traveling Salesman Problem (Design of Algorithms)](#%EF%B8%8F-dap2---design-of-algorithms-project-2-graph-manipulation-algorithms)
 9. [📅 Schedule Optimizer (Algorithms and Data Structures)](#-schedule-optimizer---algorithms-and-data-structures)  
@@ -212,7 +212,7 @@
 
 ---
 
-## 📊 Haskell Graph Manipulation (Logic and Analytical Programming Project1)
+## 📊 Haskell Graph Manipulation (Logic and Functional Programming Project1)
 
 <table align="center">
   <tr>
@@ -243,7 +243,7 @@ graph representing a country, composed of a set of interconnected cities
 
 ---
 
-## 🎲 Mabula - Prolog Game (Logic and Analytical Programming Project2)
+## 🎲 Mabula - Prolog Game (Logic and Functional Programming Project2)
 
 <table align="center">
   <tr>
