@@ -3,19 +3,22 @@
 
 ## 📌 Table of Contents  
 
-1. [🚀 FEUP-reUSE (Software Engineering)](#-feup-reuse-software-engineering)  
-2. [🌱 EcoExchange (Web Technologies Laboratory)](#-ecoexchange-web-technologies-laboratory)  
-3. [🎮 Soul's Duel (Design and Test of Software Laboratory)](#-souls-duel-design-and-test-of-software-laboratory)  
-4. [✈️ Fleet Management of Airlines Database (Databases Project)](#%EF%B8%8F-fleet-management-of-airlines-database-databases-project)  
-5. [📊 Haskell Graph Manipulation (Logic and Functional Programming)](#-haskell-graph-manipulation-logic-and-functional-programming-project1)  
-6. [🎲 Mabula - Prolog Game (Logic and Functional Programming)](#-mabula---prolog-game-logic-and-functional-programming-project2)  
-7. [🔗 DAms - Graph Manipulation Algorithms (Design of Algorithms)](#-dams---graph-manipulation-algorithms-design-of-algorithms)
-8. [🗺️ DAP2 - Traveling Salesman Problem (Design of Algorithms)](#%EF%B8%8F-dap2---design-of-algorithms-project-2-graph-manipulation-algorithms)
-9. [📅 Schedule Optimizer (Algorithms and Data Structures)](#-schedule-optimizer---algorithms-and-data-structures)  
-10. [✈️ Air Travel Management (Algorithms and Data Structures)](#-air-travel-management---algorithms-and-data-structures)
-11. [📡 Comunication of Data Protocol - Computer Networks Project1](#-comunication-of-data-protocol---computer-networks-project1)
-12. [💻 File Transmission Protocol Client - Computer Networks Project2](#-file-transmission-protocol-client---computer-networks-project2)
-13. [🎮 Not CupHead - Computer Laboratory Project](#-not-cuphead---computer-laboratory-project)  
+| No. | Project | Course / Context |
+| ---: | --- | --- |
+| 1 | [🚀 FEUP-reUSE (Software Engineering)](#-feup-reuse-software-engineering) | Software Engineering |
+| 2 | [🌱 EcoExchange (Web Technologies Laboratory)](#-ecoexchange-web-technologies-laboratory) | Web Technologies Laboratory |
+| 3 | [🎮 Soul's Duel (Design and Test of Software Laboratory)](#-souls-duel-design-and-test-of-software-laboratory) | Design and Test of Software Laboratory |
+| 4 | [✈️ Fleet Management of Airlines Database (Databases Project)](#%EF%B8%8F-fleet-management-of-airlines-database-databases-project) | Databases Project |
+| 5 | [📊 Haskell Graph Manipulation (Logic and Functional Programming)](#-haskell-graph-manipulation-logic-and-functional-programming-project1) | Logic and Functional Programming |
+| 6 | [🎲 Mabula - Prolog Game (Logic and Functional Programming)](#-mabula---prolog-game-logic-and-functional-programming-project2) | Logic and Functional Programming |
+| 7 | [🔗 DAms - Graph Manipulation Algorithms (Design of Algorithms)](#-dams---graph-manipulation-algorithms-design-of-algorithms) | Design of Algorithms |
+| 8 | [🗺️ DAP2 - Traveling Salesman Problem (Design of Algorithms)](#%EF%B8%8F-dap2---design-of-algorithms-project-2-graph-manipulation-algorithms) | Design of Algorithms |
+| 9 | [📅 Schedule Optimizer (Algorithms and Data Structures)](#-schedule-optimizer---algorithms-and-data-structures) | Algorithms and Data Structures |
+| 10 | [✈️ Air Travel Management (Algorithms and Data Structures)](#-air-travel-management---algorithms-and-data-structures) | Algorithms and Data Structures |
+| 11 | [📡 Comunication of Data Protocol - Computer Networks Project1](#-comunication-of-data-protocol---computer-networks-project1) | Computer Networks |
+| 12 | [💻 File Transmission Protocol Client - Computer Networks Project2](#-file-transmission-protocol-client---computer-networks-project2) | Computer Networks |
+| 13 | [🎮 Not CupHead - Computer Laboratory Project](#-not-cuphead---computer-laboratory-project) | Computer Laboratory |
+
 
 
 
