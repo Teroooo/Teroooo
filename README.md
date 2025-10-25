@@ -32,7 +32,11 @@
     <th>🔗 Link</th>
   </tr>
   <tr>
-    <td>🔧 Academic Projects</td>
+    <td>🔧 BSc FEUP - Projects</td>
+    <td><a href="projects.md"><img src="https://img.shields.io/badge/Press_Here-%F0%9F%92%BB-blue?style=for-the-badge"></a></td>
+  </tr>
+  <tr>
+    <td>💻 MSc IST - Projects</td>
     <td><a href="projects.md"><img src="https://img.shields.io/badge/Press_Here-%F0%9F%92%BB-blue?style=for-the-badge"></a></td>
   </tr>
   <tr>
