@@ -32,7 +32,7 @@
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=uqSPkXvHev0" target="_blank">📹 Demo Video</a> •
-  <a href="https://gitlab.com/username/agisit-chat" target="_blank">🔗 GitLab Repository</a>
+  <a href="https://github.com/Teroooo/AGISIT-MEIC-IST-AGISIT-CHAT/tree/master" target="_blank">🔗 GitLab Repository</a>
 </p>
 
 <details>
