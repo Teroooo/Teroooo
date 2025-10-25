@@ -15,10 +15,12 @@
   <tr>
     <td><img src="https://github.com/user-attachments/assets/1c6fba65-329e-4361-aa37-239c729cf1ec" alt="Property Details" width="200"></td>
     <td><img src="https://github.com/user-attachments/assets/b4564288-2353-4e35-bdd6-5b4e3669d67f" alt="Property Details" width="200"> </td>
+    <td><img src="https://github.com/user-attachments/assets/db95daba-07b3-477d-9866-cbfc3bfe58ae" alt="Property Details" width="200"> </td>
   </tr>
   <tr>
     <td align="center"><strong>Map View</strong></td>
     <td align="center"><strong>Properties</strong></td>
+    <td align="center"><strong>Property Details</strong></td>
   </tr>
 </table>
 
