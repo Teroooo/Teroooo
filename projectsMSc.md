@@ -3,9 +3,9 @@
 
 ## 📌 Table of Contents  
 
-| No. | Project | Course / Context |
-| ---: | --- | --- |
-| 1 | [🚀 AGISIT - CHAT APP)]() | Management and Administration of It Infrastructures and Services |
+| No. | Project | Course / Context | Grade |
+| ---: | --- | --- | --- |
+| 1 | [🚀 AGISIT - CHAT APP)]() | Management and Administration of It Infrastructures and Services | 18/20 |
 
 # 💬 AGISIT Chat
 
