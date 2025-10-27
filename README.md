@@ -6,6 +6,10 @@
   <a href="https://portfolio-eight-wheat-92.vercel.app/index.html" target="_blank">
     MY PORTFOLIO
   </a>
+  <br>
+  <a href="https://linkedin.com/in/antero-cabral-marques-morgado" target="_blank">
+    LINKEDIN
+  </a>
 </p>
 
 
