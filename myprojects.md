@@ -110,11 +110,12 @@
   
 
   ## ⚡ Features  
-  - 🔹 [Displays PNG by reading the .png file content]
-  - 🔹 [Uses zlib for decompression and manuel defiltering]
+  - 🔹 Displays PNG by reading the .png file content
+  - 🔹 Uses zlib for decompression
+  - 🔹 Defiltering
   
   ## 🛠 Tech Stack  
-  **Frontend:** SDL2 (Display image in a window)
+  **Frontend:** SDL2 (Display image in a window) <br>
   **Backend:** C
 
 **Last edited in 21-12-2025**
