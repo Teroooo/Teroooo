@@ -6,6 +6,7 @@
 1. [❓ IMOdex — Real Estate Portfolio Tracker]()  
 2. [🎯 ChallWe Mobile App]()
 3. [👾 RUST Compiler]()
+4. [🎯 PNG-viewer]()
 
 ---
 
@@ -89,7 +90,35 @@
 
 ---
 
+## 🎯 PNG-viewer
 
+<table align="center">
+  <tr>
+    <td><img src="" alt="" width="200"><img width="837" height="555" alt="image" src="https://github.com/user-attachments/assets/b0ea1400-7ad7-4577-ba2b-127d25e0eeaf" />
+</td>
+  </tr>
+  <tr>
+    <td align="center"><strong></strong>PrintScreen of program running</td>
+  </tr>
+</table>
+
+<a align="center" target="_blank" href="https://github.com/Teroooo/png-viewer">Project</a>
+
+<details>
+  <summary style="display: flex; justify-items:center;">About this project</summary>
+  <hr>
+  
+
+  ## ⚡ Features  
+  - 🔹 [Displays PNG by reading the .png file content]
+  - 🔹 [Uses zlib for decompression and manuel defiltering]
+  
+  ## 🛠 Tech Stack  
+  **Frontend:** SDL2 (Display image in a window)
+  **Backend:** C
+
+**Last edited in 21-12-2025**
+</details>
 
 ---
 
